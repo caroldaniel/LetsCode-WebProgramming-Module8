@@ -7,5 +7,9 @@
 </h2>
 
 <p align=center>
-  The eight Module of this course aims to give the student the practice necessary in creating and manipulating backend tools such as Servlets, JSP and Spring. 
+  The eight Module of this course aims to give the student the practice necessary in creating and manipulating backend tools such as Servlets, JSP and Spring.
+	
+	For this module, each exercise is in its particular branch. 
 </p>
+
+
